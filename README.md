@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Vivek
 
-<!--
-**meetvvk/meetvvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Mainframe Developer and partime Python developer and Git ninja!
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Mainframes
+- Python
+- Git & GitHub & Gitlab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![CodeWizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetvvk&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- [LinkedIn](www.linkedin.com/in/vivek-harshavardhan-kizhakkekundil-863b4245)
+

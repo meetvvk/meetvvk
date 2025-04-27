@@ -12,5 +12,8 @@ I'm a passionate Mainframe Developer and partime Python developer and Git ninja!
 ![CodeWizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetvvk&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/vivek-harshavardhan-kizhakkekundil)
+<a href="https://www.linkedin.com/in/vivek-harshavardhan-kizhakkekundil/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+</a>
+
 
